@@ -10,5 +10,7 @@ public class Main {
         System.out.println(Integer.MAX_VALUE);
 
         System.out.println(46341*46341);
+
+        System.out.println("test merge ");
     }
 }
