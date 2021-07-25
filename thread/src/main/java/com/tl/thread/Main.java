@@ -12,5 +12,7 @@ public class Main {
         System.out.println(46341*46341);
 
         System.out.println("test merge ");
+
+        System.out.println("test merge --no-ffgit");
     }
 }
